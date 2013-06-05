@@ -8,7 +8,7 @@ board = [
 	[false, true, false, true, true]
 ]
 
-@live = [1,2]
+@live = [2,3]
 
 def print_board (board)
 board.each{|row| 
